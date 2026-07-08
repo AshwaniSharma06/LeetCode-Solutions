@@ -80,6 +80,7 @@ LeetCode-Solutions/
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +89,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0015-3sum) |
 ## Binary Search
 |  |
@@ -111,4 +113,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0015-3sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
