@@ -79,6 +79,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
@@ -118,6 +119,7 @@ LeetCode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -167,4 +169,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
