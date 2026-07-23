@@ -170,10 +170,12 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## String Matching
 |  |
 | ------- |
