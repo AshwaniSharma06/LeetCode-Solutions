@@ -85,6 +85,7 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
@@ -189,8 +190,13 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
