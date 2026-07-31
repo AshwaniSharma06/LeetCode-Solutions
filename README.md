@@ -107,6 +107,7 @@ LeetCode-Solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -209,4 +210,5 @@ LeetCode-Solutions/
 | ------- |
 | [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
