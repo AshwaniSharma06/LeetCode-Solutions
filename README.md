@@ -87,6 +87,7 @@ LeetCode-Solutions/
 | [0020-valid-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +129,7 @@ LeetCode-Solutions/
 | [0012-integer-to-roman](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,4 +213,8 @@ LeetCode-Solutions/
 | [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
