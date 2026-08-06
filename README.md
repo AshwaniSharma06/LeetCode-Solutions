@@ -227,4 +227,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
