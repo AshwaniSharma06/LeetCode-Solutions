@@ -114,6 +114,7 @@ LeetCode-Solutions/
 | [0039-combination-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -137,6 +138,7 @@ LeetCode-Solutions/
 | [0013-roman-to-integer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,4 +233,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
