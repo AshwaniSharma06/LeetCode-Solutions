@@ -116,6 +116,7 @@ LeetCode-Solutions/
 | [0046-permutations](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -210,11 +211,13 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Bit Manipulation
 |  |
 | ------- |
