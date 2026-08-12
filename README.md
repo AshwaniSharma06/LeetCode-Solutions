@@ -117,6 +117,7 @@ LeetCode-Solutions/
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -140,6 +141,7 @@ LeetCode-Solutions/
 | [0029-divide-two-integers](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
