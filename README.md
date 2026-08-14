@@ -117,6 +117,7 @@ LeetCode-Solutions/
 | [0046-permutations](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -132,6 +133,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +225,7 @@ LeetCode-Solutions/
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 ## Bit Manipulation
 |  |
