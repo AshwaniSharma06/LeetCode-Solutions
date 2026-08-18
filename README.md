@@ -93,6 +93,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
@@ -231,6 +232,7 @@ LeetCode-Solutions/
 | [0022-generate-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0091-decode-ways) |
 ## Bit Manipulation
 |  |
