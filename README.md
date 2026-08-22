@@ -122,6 +122,7 @@ LeetCode-Solutions/
 | [0053-maximum-subarray](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -163,6 +164,7 @@ LeetCode-Solutions/
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -171,6 +173,7 @@ LeetCode-Solutions/
 | [0016-3sum-closest](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Trie
@@ -271,4 +274,12 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
