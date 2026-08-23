@@ -94,6 +94,7 @@ LeetCode-Solutions/
 | [0058-length-of-last-word](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
@@ -124,6 +125,7 @@ LeetCode-Solutions/
 | [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -194,6 +196,7 @@ LeetCode-Solutions/
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -256,6 +259,7 @@ LeetCode-Solutions/
 | [0046-permutations](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +274,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Binary Search Tree
 |  |
 | ------- |
