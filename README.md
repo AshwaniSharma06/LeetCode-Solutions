@@ -167,6 +167,7 @@ LeetCode-Solutions/
 | [0031-next-permutation](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -221,6 +222,7 @@ LeetCode-Solutions/
 | [0024-swap-nodes-in-pairs](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
