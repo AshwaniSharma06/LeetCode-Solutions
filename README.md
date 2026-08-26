@@ -191,6 +191,7 @@ LeetCode-Solutions/
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -211,6 +212,7 @@ LeetCode-Solutions/
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -248,6 +250,7 @@ LeetCode-Solutions/
 | [0064-minimum-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,6 +267,7 @@ LeetCode-Solutions/
 | [0077-combinations](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +287,7 @@ LeetCode-Solutions/
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 ## Quicksort
 |  |
