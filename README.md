@@ -153,6 +153,7 @@ LeetCode-Solutions/
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +258,7 @@ LeetCode-Solutions/
 | [0029-divide-two-integers](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
 | ------- |
@@ -267,6 +269,7 @@ LeetCode-Solutions/
 | [0077-combinations](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Simulation
 |  |
