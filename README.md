@@ -189,9 +189,11 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
@@ -201,6 +203,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -213,6 +216,7 @@ LeetCode-Solutions/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
