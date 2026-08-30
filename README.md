@@ -121,6 +121,7 @@ LeetCode-Solutions/
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -281,6 +282,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Database
 |  |
@@ -291,6 +293,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Binary Search Tree
