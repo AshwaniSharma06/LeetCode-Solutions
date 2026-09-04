@@ -93,6 +93,7 @@ LeetCode-Solutions/
 | [0049-group-anagrams](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0091-decode-ways) |
@@ -127,6 +128,7 @@ LeetCode-Solutions/
 | [0056-merge-intervals](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -290,6 +292,7 @@ LeetCode-Solutions/
 | [0043-multiply-strings](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0068-text-justification) |
 ## Database
 |  |
 | ------- |
