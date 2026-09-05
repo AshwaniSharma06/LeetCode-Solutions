@@ -133,6 +133,7 @@ LeetCode-Solutions/
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -274,6 +275,7 @@ LeetCode-Solutions/
 | [0067-add-binary](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -285,6 +287,7 @@ LeetCode-Solutions/
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Simulation
 |  |
