@@ -133,6 +133,7 @@ LeetCode-Solutions/
 | [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -143,6 +144,7 @@ LeetCode-Solutions/
 | [0033-search-in-rotated-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
