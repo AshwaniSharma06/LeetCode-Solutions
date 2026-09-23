@@ -206,6 +206,7 @@ LeetCode-Solutions/
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -216,6 +217,7 @@ LeetCode-Solutions/
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@ LeetCode-Solutions/
 | [0098-validate-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -240,6 +243,7 @@ LeetCode-Solutions/
 | [0100-same-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
