@@ -220,6 +220,7 @@ LeetCode-Solutions/
 | [0102-binary-tree-level-order-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -232,6 +233,7 @@ LeetCode-Solutions/
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -241,6 +243,7 @@ LeetCode-Solutions/
 | [0101-symmetric-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +256,7 @@ LeetCode-Solutions/
 | [0102-binary-tree-level-order-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
