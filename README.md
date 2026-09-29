@@ -141,6 +141,7 @@ LeetCode-Solutions/
 | [0090-subsets-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -311,6 +312,7 @@ LeetCode-Solutions/
 | [0096-unique-binary-search-trees](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
