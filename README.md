@@ -101,6 +101,7 @@ LeetCode-Solutions/
 | [0091-decode-ways](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Sliding Window
 |  |
@@ -193,6 +194,7 @@ LeetCode-Solutions/
 | [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
