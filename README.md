@@ -147,6 +147,7 @@ LeetCode-Solutions/
 | [0119-pascals-triangle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -336,6 +337,7 @@ LeetCode-Solutions/
 | [0078-subsets](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
