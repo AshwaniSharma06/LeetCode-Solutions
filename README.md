@@ -80,6 +80,7 @@ LeetCode-Solutions/
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -329,6 +330,7 @@ LeetCode-Solutions/
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
