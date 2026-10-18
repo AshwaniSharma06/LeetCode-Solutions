@@ -81,6 +81,7 @@ LeetCode-Solutions/
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -107,6 +108,7 @@ LeetCode-Solutions/
 | [0097-interleaving-string](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Sliding Window
 |  |
@@ -160,6 +162,7 @@ LeetCode-Solutions/
 | [0134-gas-station](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -229,6 +232,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -369,6 +373,7 @@ LeetCode-Solutions/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -438,6 +443,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Union-Find
 |  |
 | ------- |
@@ -447,4 +453,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
