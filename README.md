@@ -83,6 +83,7 @@ LeetCode-Solutions/
 | [0138-copy-list-with-random-pointer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -336,6 +337,7 @@ LeetCode-Solutions/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -457,4 +459,12 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
