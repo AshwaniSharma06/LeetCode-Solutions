@@ -84,6 +84,7 @@ LeetCode-Solutions/
 | [0138-copy-list-with-random-pointer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -219,6 +220,7 @@ LeetCode-Solutions/
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ LeetCode-Solutions/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 ## Recursion
@@ -463,6 +466,7 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
