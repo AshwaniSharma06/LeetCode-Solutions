@@ -184,6 +184,7 @@ LeetCode-Solutions/
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +222,7 @@ LeetCode-Solutions/
 | [0125-valid-palindrome](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ LeetCode-Solutions/
 | [0075-sort-colors](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -349,6 +352,7 @@ LeetCode-Solutions/
 | [0142-linked-list-cycle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -483,4 +487,8 @@ LeetCode-Solutions/
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0133-clone-graph) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
