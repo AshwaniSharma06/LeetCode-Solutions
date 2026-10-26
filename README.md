@@ -166,6 +166,7 @@ LeetCode-Solutions/
 | [0136-single-number](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -201,6 +202,7 @@ LeetCode-Solutions/
 | [0070-climbing-stairs](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Two Pointers
 |  |
@@ -249,6 +251,7 @@ LeetCode-Solutions/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
 | ------- |
