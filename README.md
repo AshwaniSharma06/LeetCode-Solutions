@@ -86,6 +86,7 @@ LeetCode-Solutions/
 | [0141-linked-list-cycle](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3731-find-missing-elements](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -228,6 +229,7 @@ LeetCode-Solutions/
 | [0143-reorder-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -366,6 +368,7 @@ LeetCode-Solutions/
 | [0146-lru-cache](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AshwaniSharma06/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
